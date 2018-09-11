@@ -1,0 +1,6 @@
+range  
+Content-Range:"-514"
+Content-Range:"125-514"
+文件下载了一半   512
+Content-Range:"512-"
+code==200  code=206
