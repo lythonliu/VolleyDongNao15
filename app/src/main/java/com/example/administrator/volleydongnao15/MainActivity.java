@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import com.example.administrator.volleydongnao15.http.download.FileDownManager;
 
-public class MainActivity extends com.lythonliu.Linkcom.lythonliu.LinkAppCompatActivity {
+public class MainActivity extends com.lythonliu.LinkAppCompatActivity {
 
     @Override
     public String getAppName(){
